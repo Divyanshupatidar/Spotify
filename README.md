@@ -37,6 +37,8 @@ spotify-clone/
 ```
 
 ## Screenshots
+<img width="1470" height="956" alt="Screenshot 2026-06-24 at 12 16 55 PM" src="https://github.com/user-attachments/assets/b75c03b1-df96-43e8-a775-3f4216e7751a" />
+
 
 
 ## Author

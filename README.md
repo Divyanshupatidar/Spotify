@@ -38,7 +38,6 @@ spotify-clone/
 
 ## Screenshots
 
-Add screenshots of your project here.
 
 ## Author
 
